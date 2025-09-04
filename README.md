@@ -1,4 +1,4 @@
-# PF-LAB-3
+# This is a branch for adding features
 ## Heading 2
 ### Heading 3
 Introduction of GitHub.
